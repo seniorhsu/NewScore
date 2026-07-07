@@ -11,6 +11,12 @@ npm run dev
 
 正式建置檢查：`npm run build`。
 
+## 線上網站
+
+GitHub Pages：<https://seniorhsu.github.io/NewScore/>
+
+推送到 `main` 後，GitHub Actions 會自動建置並更新網站。
+
 ## 操作方式
 
 - 右上角「切換角色」可切換 9 種角色；左側選單會依權限改變。
